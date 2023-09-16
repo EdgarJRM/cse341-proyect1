@@ -1,0 +1,22 @@
+{
+  "name": "cse341-proyect1",
+  "version": "1.0.0",
+  "description": "My First Proyect",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarJRM/cse341-proyect1.git"
+  },
+  "author": "Edgar Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarJRM/cse341-proyect1/issues"
+  },
+  "homepage": "https://github.com/EdgarJRM/cse341-proyect1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
