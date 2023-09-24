@@ -22,11 +22,11 @@ PUT http://localhost:3000/contacts/650f62c5ffa739959de3c7f3 HTTP/1.1
 Content-Type: application/json
 
 {
-  "firstName": "",
-  "lastName": "",
-  "email": "",
-  "favoriteColor": "Yellow",
-  "birthday": ""
+  "firstName": "Maria",
+  "lastName": "XiaLiu",
+  "email": "rertexia@gmail.com",
+  "favoriteColor": "Black",
+  "birthday": "July 14, 1997"
 }
 
 ### DELETE contact
