@@ -15,8 +15,8 @@ const initDb = (calback) => {
             database = client;
             calback(null, database);
         })
-        .catch((arr) => {
-            calback(err);
+        .catch((err) => {
+            callback(err);
         })
 };
 
